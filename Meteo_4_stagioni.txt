@@ -1,0 +1,35 @@
+<html>
+<head>
+<title> Meteo 4 stagioni </title>
+</head>
+<body>
+<body style="background-color:Darkgreen;">
+<hr>
+<b><center> <font color="gold" size="20"><marquee width="100%" scrollamount="25"> ⛈🌧☁☀METEO 4 STAGIONI☀☁🌧⛈</marquee> </font> </center> </b>
+<br>
+<hr>
+<br>
+<p>
+<center> <b> <font color="darkorange" size="6"> ALCUNI VIDEOGIOCHI DELLA SERIE ZELDA: </font></b></center>
+</p>
+<img src="Zelda1.jpg" width="450" height="250">
+<img src="Zelda2.jpg" width="450" height="250">
+<img src="Zelda5.jpg" width="425" height="250">
+<center>
+<img src="Zelda4.jpg" width="475" height="275">
+<img src="Zelda3.jpg" width="320" height="275">
+<img src="Zelda6.jpg" width="450" height="275">
+</center>
+<hr>
+<p>
+<center> <b> <font color="darkorange" size="6"> LA STORIA: </font></b></center>
+<br>
+<center><font color="white" size="5"> Il gioco è ambientato nel regno di Hyrule e segue le avventure del giovane <font color="lime"><b>Link</b></font>, che deve salvare la <font color="violet"><b>Principessa Zelda</b></font> dalle grinfie del malvagio <font color="black"><b>Ganon</b></font> recuperando gli otto frammenti di un oggetto noto come la <font color="gold"><b>Triforza</b></font>.</font></center>
+</p>
+<p>
+<center> <b> <font color="darkorange" size="6"> I PERSONAGGI: </font></b></center>
+<ol type="I">
+<font color="white" size="5">
+<li>Clicca per sapere di più su→<a href="Link.html"><font color="lime"><b>Link</b></font></a></li>
+<li>Clicca per sapere di più su→<a href="Zelda.html"><font color="violet"><b>Principessa Zelda</b></font></a></li>
+<li>Clicca per sapere di più su→<a href="Ganon.html"><font color="black"><b>Ganon</b></font></a></li>

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> Autunno </title>
+</head>
+<body>
+<body style="background-color:#B0DDFE;">
+<hr>
+<b><center> <font face="Verdana" color="Inverno" size="20"><marquee width="100%" scrollamount="25"> Autunno </marquee> </font> </center> </b>
+<br>
+<hr>
+<p>
+<font face="Verdana" color="White" size="6">Link è l'eroe della serie The Legend of Zelda. I Link dei vari episodi della saga non sono quasi mai la stessa persona, ma incarnazioni differenti dello Spirito dell'Eroe. Essi sono prescelti dalle Dee per proteggere la Terra dal Male quando esso minaccia la pace. La maggior parte delle avventure sono ambientate nel mondo di Hyrule: Link esplora questa terra, collezionando oggetti importanti e sconfiggendo una gran varietà di nemici nel tentativo di salvare sia la Principessa Zelda sia il suo Regno dalla minaccia di Ganon, di Vaati o di altri nemici. Il Link del primo gioco della serie era semplicemente un giovane spadaccino, ma già dalla sua seconda avventura l'identità e il ruolo di ciascuna incarnazione di Link è mutata in vari modi.
+<br>
+<center><img src="Autunno.jpg"></center>
+<br>
+<font face="Verdana" color="white" size="5">Torna</font> <a href="Index.html"><font face="Verdana" color="brown" size="5">→alla Home←</font></a>
+</body>
+</html>
